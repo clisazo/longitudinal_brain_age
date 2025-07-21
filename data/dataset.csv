@@ -1,0 +1,7 @@
+participant_id,age,sex,dataset,session,run,split,T1aff_path,synthseg_path
+ID1234,68.0,Female,dataset_name,ses-m000,run-01,train,/path/to/T1w/image/in/MNI/space/filename.nii.gz,/path/to/synthseg/segmentation/in/MNI/space/seg_filename.nii.gz
+ID1234,69.0,Female,dataset_name,ses-m012,run-01,train,/path/to/T1w/image/in/MNI/space/filename.nii.gz,/path/to/synthseg/segmentation/in/MNI/space/seg_filename.nii.gz
+ID1235,70.0,Male,dataset_name,ses-m000,run-01,val,/path/to/T1w/image/in/MNI/space/filename.nii.gz,/path/to/synthseg/segmentation/in/MNI/space/seg_filename.nii.gz
+ID1235,72.0,Male,dataset_name,ses-m024,run-01,val,/path/to/T1w/image/in/MNI/space/filename.nii.gz,/path/to/synthseg/segmentation/in/MNI/space/seg_filename.nii.gz
+ID1236,78.0,Female,dataset_name,ses-m000,run-01,test,/path/to/T1w/image/in/MNI/space/filename.nii.gz,/path/to/synthseg/segmentation/in/MNI/space/seg_filename.nii.gz
+ID1236,79.0,Female,dataset_name,ses-m012,run-01,test,/path/to/T1w/image/in/MNI/space/filename.nii.gz,/path/to/synthseg/segmentation/in/MNI/space/seg_filename.nii.gz
