@@ -100,7 +100,7 @@ python bias_correction/coles_bias_correction.py
 
 ## Citation
 
-If you use this codebase in your research, please cite the article 'Title'.
+If you use this codebase in your research, please cite the article 'Improving longitudinal robustness in brain age estimation using a lightweight temporal consistency prior'.
 
 ## License
 
